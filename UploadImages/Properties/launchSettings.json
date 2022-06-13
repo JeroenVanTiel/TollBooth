@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UploadImages": {
+      "commandName": "Project",
+      "commandLineArgs": "DefaultEndpointsProtocol=https;AccountName=datalakeryqlzkglpo7ou;AccountKey=gQWdVMg1S76PMdltWmCJzOTk8jhEXUskHNNRQeleRiK6d7giPtyaVECls3DlRyuJ55iKxTxBLsuC+ASt/YF74Q==;EndpointSuffix=core.windows.net"
+    }
+  }
+}
